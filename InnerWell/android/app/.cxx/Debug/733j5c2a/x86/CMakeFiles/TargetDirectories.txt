@@ -1,0 +1,2 @@
+C:/Users/kashi/Desktop/repo/innerwell/android/app/.cxx/Debug/733j5c2a/x86/CMakeFiles/edit_cache.dir
+C:/Users/kashi/Desktop/repo/innerwell/android/app/.cxx/Debug/733j5c2a/x86/CMakeFiles/rebuild_cache.dir

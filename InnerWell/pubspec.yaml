@@ -1,0 +1,59 @@
+name: mental_health_app1
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1  # ✅ Updated from 0.17.0
+  http: ^1.1.0  # ✅ Updated from 0.13.4
+  webview_flutter: ^4.7.0  # ✅ Updated from 2.0.12 (supports AGP 8.0+)
+  webview_flutter_android: ^3.11.2  # ✅ Required for Android compatibility
+  youtube_explode_dart: ^2.3.10
+  url_launcher: ^6.1.14
+  table_calendar: ^3.0.9  # ✅ Latest stable version
+  sliding_up_panel: ^2.0.0+1
+  shared_preferences: ^2.2.2  # ✅ Updated to latest stable version
+  cupertino_icons: ^1.0.6  # ✅ Updated from 1.0.2
+  image_picker: ^1.0.7  # ✅ Updated from 1.0.4
+  encrypt: ^5.0.3
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1  # ✅ Updated from 0.10.0
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1  # ✅ Updated from 2.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/SelfAssess.png
+    - assets/images/activity1.jpg
+    - assets/images/activity2.jpg
+    - assets/images/activity3.jpg
+    - assets/images/bg.jpg
+    - assets/images/feed1.jpg
+    - assets/images/feed2.jpg
+    - assets/images/feed3.jpg
+    - assets/images/final.jpg
+    - assets/images/therapist.jpg
+    - assets/images/frame.jpg
+    - assets/images/arttherapy.png
+    - assets/images/some.jpg
+    - assets/images/back_button.jpg
+    - assets/images/arrow_button.jpg
+    - assets/images/menubutton.jpg
+    - assets/icons/icon.png
+    - assets/icons/icon2.png

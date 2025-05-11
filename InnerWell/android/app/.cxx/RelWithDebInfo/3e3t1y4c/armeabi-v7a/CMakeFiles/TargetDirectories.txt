@@ -1,0 +1,2 @@
+C:/Users/kashi/Desktop/Innerwell1/innerwell/android/app/.cxx/RelWithDebInfo/3e3t1y4c/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kashi/Desktop/Innerwell1/innerwell/android/app/.cxx/RelWithDebInfo/3e3t1y4c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
